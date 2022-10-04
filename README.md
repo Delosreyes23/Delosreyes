@@ -11,8 +11,8 @@ Projects
 Security
 Insights
 binary/index.html
-@carlcastanas
-carlcastanas Update index.html
+@jayceedelosreyes
+jayceedelosreyes Update index.html
  1 contributor
 38 lines (35 sloc)  1.46 KB
 <!DOCTYPE html>
